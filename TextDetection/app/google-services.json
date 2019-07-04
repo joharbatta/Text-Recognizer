@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271762145129",
+    "firebase_url": "https://textdetection-332f9.firebaseio.com",
+    "project_id": "textdetection-332f9",
+    "storage_bucket": "textdetection-332f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271762145129:android:eca6b658e8577526",
+        "android_client_info": {
+          "package_name": "com.joharbatta.android.textdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271762145129-l3h21qsvv33o678ne9kpjb8h2intt302.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joharbatta.android.textdetection",
+            "certificate_hash": "245d49ab72d728605ca9c06b3312cb37422b79c1"
+          }
+        },
+        {
+          "client_id": "271762145129-jgjbgncct3949a8m5a4a0qq127kr2g98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Hx2UitGC0jxmy48WiPD0fWk6DOFc1nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271762145129-jgjbgncct3949a8m5a4a0qq127kr2g98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
